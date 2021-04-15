@@ -1,0 +1,71 @@
+1 java基础
+
+java     
+
+	数据类型 （八大数据类型）
+
+	容器（list  set  map ）
+
+	包装类（file  date  string  封装类   exception     stream    ）
+
+	控制语句 （if  for   while  foreach  迭代器）
+
+	反射  reflect
+
+	注解  annotation
+
+	jdk 新特性 lamda表达式（接口的新实现方式）  stream流操作
+
+	多线程   thread    安全问题 
+
+
+javascript
+
+	数据类型（数字型  字符型  日期   对象（json）  ）
+
+	选择器   id     name 
+
+	document的内置对象
+
+	常用事件 （鼠标  键盘   页面）
+
+        
+jsp
+	
+
+数据库
+	sql语句
+
+
+	
+	
+
+2 框架
+
+	mvc思想    
+
+	model（jdbc  mybatis_plus  hibernate jpa）   ( orm      增删改查 )
+
+	controller (servlet springmvc  springboot )  （接参传参  页面跳转）
+
+	view (jquery   bootstrap  layui  vue（钩子函数  属性  指令 路由  组件）  elementui)   （json）
+
+	shiro 安全框架
+
+
+
+3 架构
+
+  mongodb      redis       linux命令    docker     nginx（负载均衡）
+
+springboot +springcloud（）     消息队列
+
+ nacos+dubbo    消息队列
+
+分布式事务  seata解决的
+
+
+
+4 业务
+
+
