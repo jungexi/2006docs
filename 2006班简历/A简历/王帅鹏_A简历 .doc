@@ -421,18 +421,54 @@ font-family:'Times New Roman';
 span.15{
 font-family:Calibri;
 mso-fareast-font-family:宋体;
-font-size:9.0000pt;
+font-weight:bold;
+font-size:14.0000pt;
 mso-font-kerning:1.0000pt;
 }
 
 span.16{
+font-family:Calibri;
+mso-fareast-font-family:宋体;
+font-size:9.0000pt;
+mso-font-kerning:1.0000pt;
+}
+
+span.17{
 font-family:'Times New Roman';
 color:rgb(0,0,255);
 text-decoration:underline;
 text-underline:single;
 }
 
-span.17{
+span.18{
+font-family:'Times New Roman';
+}
+
+span.19{
+font-family:'Times New Roman';
+font-size:9.0000pt;
+}
+
+span.20{
+font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
+}
+
+span.21{
+font-family:Calibri;
+mso-fareast-font-family:宋体;
+font-size:9.0000pt;
+mso-font-kerning:1.0000pt;
+}
+
+span.22{
+font-family:'Times New Roman';
+font-size:9.0000pt;
+}
+
+span.23{
 font-family:'等线 Light';
 mso-bidi-font-family:'Times New Roman';
 font-weight:bold;
@@ -440,79 +476,14 @@ font-size:12.0000pt;
 mso-font-kerning:1.0000pt;
 }
 
-span.18{
-font-family:'Times New Roman';
-font-size:9.0000pt;
-}
-
-span.19{
-font-family:'Times New Roman';
-color:rgb(128,0,128);
-text-decoration:underline;
-text-underline:single;
-}
-
-span.20{
-font-family:Calibri;
-mso-fareast-font-family:宋体;
-font-size:9.0000pt;
-mso-font-kerning:1.0000pt;
-}
-
-span.21{
-font-family:'等线 Light';
-mso-bidi-font-family:'Times New Roman';
-font-weight:bold;
-font-size:16.0000pt;
-mso-font-kerning:1.0000pt;
-}
-
-span.22{
-font-family:'Times New Roman';
-color:rgb(0,0,255);
-text-decoration:underline;
-text-underline:single;
-}
-
-span.23{
-font-family:'Times New Roman';
-color:rgb(0,0,255);
-text-decoration:underline;
-text-underline:single;
-}
-
 span.24{
 font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
 }
 
 span.25{
-font-family:'Times New Roman';
-color:rgb(0,0,255);
-text-decoration:underline;
-text-underline:single;
-}
-
-span.26{
-font-family:'Times New Roman';
-font-size:9.0000pt;
-}
-
-span.27{
-font-family:Calibri;
-mso-fareast-font-family:宋体;
-font-size:9.0000pt;
-mso-font-kerning:1.0000pt;
-}
-
-span.28{
-font-family:Calibri;
-mso-fareast-font-family:宋体;
-font-weight:bold;
-font-size:14.0000pt;
-mso-font-kerning:1.0000pt;
-}
-
-span.29{
 font-family:Calibri;
 mso-fareast-font-family:宋体;
 font-weight:bold;
@@ -520,15 +491,43 @@ font-size:22.0000pt;
 mso-font-kerning:22.0000pt;
 }
 
-span.30{
+span.26{
+font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
+}
+
+span.27{
+font-family:'等线 Light';
+mso-bidi-font-family:'Times New Roman';
+font-weight:bold;
+font-size:16.0000pt;
+mso-font-kerning:1.0000pt;
+}
+
+span.28{
 font-family:'Times New Roman';
 font-size:9.0000pt;
 }
 
-span.31{
-font-family:'Courier New';
+span.29{
+font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
+}
+
+span.30{
+font-family:Calibri;
 mso-fareast-font-family:宋体;
+font-weight:bold;
+font-size:16.0000pt;
 mso-font-kerning:1.0000pt;
+}
+
+span.31{
+font-family:'Times New Roman';
 }
 
 span.32{
@@ -540,9 +539,23 @@ text-underline:single;
 
 span.33{
 font-family:'Times New Roman';
+color:rgb(128,0,128);
+text-decoration:underline;
+text-underline:single;
 }
 
 span.34{
+font-family:'Times New Roman';
+}
+
+span.35{
+font-family:Calibri;
+mso-fareast-font-family:宋体;
+font-size:9.0000pt;
+mso-font-kerning:1.0000pt;
+}
+
+span.36{
 font-family:'等线 Light';
 mso-bidi-font-family:'Times New Roman';
 font-weight:bold;
@@ -550,16 +563,26 @@ font-size:14.0000pt;
 mso-font-kerning:1.0000pt;
 }
 
-span.35{
-font-family:Calibri;
+span.37{
+font-family:'Courier New';
 mso-fareast-font-family:宋体;
-font-weight:bold;
-font-size:16.0000pt;
 mso-font-kerning:1.0000pt;
 }
 
-span.36{
+span.38{
 font-family:'Times New Roman';
+}
+
+p.pre{
+mso-style-name:"HTML 预设格式";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
 }
 
 p.MsoAcetate{
@@ -613,18 +636,6 @@ font-size:9.0000pt;
 mso-font-kerning:1.0000pt;
 }
 
-p.pre{
-mso-style-name:"HTML 预设格式";
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-mso-pagination:widow-orphan;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
 p.p{
 mso-style-name:"普通\(网站\)";
 margin-top:5.0000pt;
@@ -639,19 +650,21 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.42{
-mso-style-name:"HTML 预设格式 Char";
-margin-top:0.0000pt;
+p.44{
+mso-style-name:msonormal1;
+margin-top:5.0000pt;
 margin-right:0.0000pt;
-margin-bottom:0.0000pt;
+margin-bottom:5.0000pt;
 margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
 mso-pagination:widow-orphan;
 text-align:left;
 font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.43{
+p.45{
 mso-style-name:"普通\(网站\) Char";
 margin-top:5.0000pt;
 margin-right:0.0000pt;
@@ -665,8 +678,20 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.44{
-mso-style-name:msonormal1;
+p.46{
+mso-style-name:"HTML 预设格式 Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.47{
+mso-style-name:"普通\(网站\) Char Char";
 margin-top:5.0000pt;
 margin-right:0.0000pt;
 margin-bottom:5.0000pt;
@@ -763,7 +788,7 @@ font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >男</span></b><b
 font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;25 </span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >岁</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;&nbsp;&nbsp;4</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >年 年工作经验</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >年 工作经验</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" >本科</span></b><b><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
 font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span></b><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
@@ -786,7 +811,7 @@ font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td><td 
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
-font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><img width="269"  height="322"  src="王帅鹏_A简历 .files/王帅鹏_A简历 199.png" ></span><o:p></o:p></p></td></tr><tr style="height:83.6000pt;" ><td width=646  valign=top  style="width:388.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><img width="337"  height="403"  src="王帅鹏_A简历 .files/王帅鹏_A简历 198.png" ></span><o:p></o:p></p></td></tr><tr style="height:83.6000pt;" ><td width=646  valign=top  style="width:388.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
@@ -922,16 +947,16 @@ font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td><td w
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="font-family:Calibri;mso-fareast-font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >1</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >、</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >修复程序</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+mso-font-kerning:1.0000pt;" >1</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >、修复程序</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" >BUG</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >，对其他软件工程师的代码进行审核</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >2</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >、</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >负责核心代码的编写，确保性能，质量和安全</span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-mso-bidi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><font face="Calibri" >3</font></span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >、</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >参与与其业务相关的需求变更</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >。</span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-mso-bidi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><font face="Calibri" >4</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >、开发过程中和团队协作，解决开发过程中遇到的难题</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >。</span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+mso-font-kerning:1.0000pt;" >，对其他软件工程师的代码进行审核&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >2</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >、负责核心代码的编写，确保性能，质量和安全</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >3</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >、参与与其业务相关的需求变更&nbsp;。</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >4</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >、开发过程中和团队协作，解决开发过程中遇到的难题。</span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
 mso-bidi-font-family:'Times New Roman';font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';display:none;mso-hide:all;
 font-size:12.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
@@ -983,18 +1008,17 @@ font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="font-
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td><td width=83.0600%  valign=top  style="width:83.0600%;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><font face="Calibri" >1</font></span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >、</span><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
+mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="font-family:Calibri;mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >1</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >、</span><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
 mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;
-mso-font-kerning:1.0000pt;" >单元测试，<font face="Calibri" >2</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >单元测试，</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >2</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >、修复程序</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >BUG </span><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
-mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;
-mso-font-kerning:1.0000pt;" >，<font face="Calibri" >3</font></span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >、</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >BUG </span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;" >，</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >3</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >、</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
 font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >完成上级交办的其他事宜</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >，</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >4</font></span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >、</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >编写技术设计文档</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >，</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >5</font></span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >、</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >负责公司项目的模块开发</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >。</span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+mso-font-kerning:1.0000pt;" >完成上级交办的其他事宜，4、编写技术设计文档，5、负责公司项目的模块开发。</span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
 mso-bidi-font-family:'Times New Roman';font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
 font-size:15.0000pt;mso-font-kerning:1.0000pt;background:rgb(127,127,127);
 mso-shading:rgb(127,127,127);" ><font face="宋体" >项目经历</font></span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
@@ -1003,7 +1027,13 @@ mso-font-kerning:1.0000pt;" >&nbsp;</span></b><b><span style="mso-spacerun:'yes'
 mso-bidi-font-family:'Times New Roman';font-weight:bold;font-size:15.0000pt;
 mso-font-kerning:1.0000pt;background:rgb(127,127,127);mso-shading:rgb(127,127,127);" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';font-weight:bold;font-size:15.0000pt;
-mso-font-kerning:1.0000pt;background:rgb(127,127,127);mso-shading:rgb(127,127,127);" ><o:p></o:p></span></b></p><table class=MsoTableGrid  border=0  cellspacing=0  style="border-collapse:collapse;border:none;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr><td width=890  valign=top  colspan=2  style="width:534.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-font-kerning:1.0000pt;background:rgb(127,127,127);mso-shading:rgb(127,127,127);" ><o:p></o:p></span></b></p><table class=MsoTableGrid  border=0  cellspacing=0  style="border-collapse:collapse;border:none;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr style="height:4.5000pt;" ><td width=890  valign=top  colspan=2  style="width:534.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;" ><table class=MsoTableGrid  border=1  cellspacing=0  style="border-collapse:collapse;width:534.1000pt;margin-left:6.7500pt;
+border:none;mso-border-left-alt:0.5000pt solid rgb(0,0,0);mso-border-top-alt:0.5000pt solid rgb(0,0,0);
+mso-border-right-alt:0.5000pt solid rgb(0,0,0);mso-border-bottom-alt:0.5000pt solid rgb(0,0,0);mso-border-insideh:0.5000pt solid rgb(0,0,0);
+mso-border-insidev:0.5000pt solid rgb(0,0,0);mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr><td width=890  valign=top  colspan=2  style="width:534.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
@@ -1012,9 +1042,54 @@ mso-font-kerning:1.0000pt;" >20</span></b><b><span style="mso-spacerun:'yes';fon
 font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >20</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';font-weight:bold;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >.09-20</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
-font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >21</span></b><b><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >21</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >.0</span></b><b><span style="font-family:Calibri;mso-fareast-font-family:宋体;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >3</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >山东伊蒙办公</span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >云</span></b><b><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span></b><b><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;
+background:rgb(127,127,127);mso-shading:rgb(127,127,127);" ><o:p></o:p></span></b></p></td></tr><tr><td width=139  valign=top  style="width:83.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >项目描述：</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td><td width=751  valign=top  style="width:450.7000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >项目框架：</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >SpringBoot+MyBatis-Plus+Redis+Mysql+Vue+Element ui&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >本系统是企业的内部办公系统，主要解决公司日常会议、日程、方便调整人事结构，加快申报审批流程的进行；员工考勤以公告等的管理问题；除此以外还提供系统管理、使用工具、日常公务、个人设置、自定义平台等功能，可以使企业更好地管理公司并服务客户。</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=139  valign=top  style="width:83.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >个人职责：</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td><td width=751  valign=top  style="width:450.7000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >主要负责地区管理，客户管理，系统管理，</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >资产管理，</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >AOP</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >日志管理，反射导出</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >excel</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >等工作。</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >20</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >19</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >.09-20</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >20</span></b><b><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
 font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >.</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
-font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >03 </span></b><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:宋体;
+font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >08&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:宋体;
 color:rgb(51,51,51);letter-spacing:0.0000pt;font-weight:bold;
 text-transform:none;font-style:normal;font-size:10.5000pt;
 mso-font-kerning:1.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >顺电网上商城</span></b><span style="font-family:Arial;mso-fareast-font-family:宋体;color:rgb(51,51,51);
@@ -1035,11 +1110,9 @@ mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes
 mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >项目框架：</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
 mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >后台：</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >SpringCloud + SpringBoot +MyBatis-Plus+Vue</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >+Redis+Mysql</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >本项目是一款在线购物平台，使用前后端分离开发，整个项目分为线上前台客户使用的功能平台和管理员使用的系统管理平台。其功能有浏览、搜索商品、购物车、订单、注册、登录、注销、支付、个人信息、物流等；</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=139  valign=top  style="width:83.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >SpringCloud + SpringBoot +MyBatis-Plus+Vue+Redis+Mysql&nbsp;+Element ui+</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="宋体" >rabbitMQ本项目是一款在线购物平台，使用前后端分离开发，整个项目分为线上前台客户使用的功能平台和管理员使用的系统管理平台。其功能有浏览、搜索商品、购物车、订单、注册、登录、注销、支付、定时任务、个人信息、物流等；</font></span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:26.4500pt;" ><td width=139  valign=top  style="width:83.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
@@ -1055,60 +1128,23 @@ font-size:9.0000pt;mso-font-kerning:1.0000pt;" >，</span><span style="mso-spacer
 mso-font-kerning:1.0000pt;" >个人信息</span><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
 mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >，阿里云</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" >oss</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >第三方接口调用，基于</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+mso-font-kerning:1.0000pt;" >第三方接口调用，定时任务，基于</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" >jwt</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >的登录，购物车、订单、注册等工作。</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
-font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
-mso-bidi-font-family:'Times New Roman';display:none;mso-hide:all;
-font-size:12.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
-mso-bidi-font-family:'Times New Roman';display:none;mso-hide:all;
-font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><table class=MsoTableGrid  border=0  cellspacing=0  style="border-collapse:collapse;border:none;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr><td width=890  valign=top  colspan=2  style="width:534.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
-mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
-border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;" ><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
-mso-bidi-font-family:'Times New Roman';font-weight:bold;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >201</span></b><b><span style="font-family:Calibri;mso-fareast-font-family:宋体;font-weight:bold;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >9</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
-mso-bidi-font-family:'Times New Roman';font-weight:bold;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >.09-20</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
-font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >20</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
-mso-bidi-font-family:'Times New Roman';font-weight:bold;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >.08</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >山东伊蒙办公平台</span></b><b><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span></b><b><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
-font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;
-background:rgb(127,127,127);mso-shading:rgb(127,127,127);" ><o:p></o:p></span></b></p></td></tr><tr><td width=139  valign=top  style="width:83.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
-mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
-border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
-mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >项目描述：</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
-font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td><td width=751  valign=top  style="width:450.7000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
-mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
-border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
-mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >项目框架：</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >SpringBoot+MyBatis-Plus+Redis+Mysql+Bootstrap </span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >本系统是企业的内部办公系统，主要解决公司日常会议、日程、方便调整人事结构，加快申报审批流程的进行；员工考勤以公告等的管理问题；除此以外还提供系统管理、使用工具、日常公务、个人设置、自定义平台等功能，可以使企业更好地管理公司并服务客户。</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
 font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=139  valign=top  style="width:83.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
-mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >个人职责：</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
-font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td><td width=751  valign=top  style="width:450.7000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=751  valign=top  style="width:450.7000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
-mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >主要负责地区管理，客户管理，系统管理，</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >资产管理，</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >AOP</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >日志管理，反射导出</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >excel</span><span style="font-family:宋体;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >。</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
-font-size:10.5000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';display:none;mso-hide:all;
+font-size:12.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';display:none;mso-hide:all;
+font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';display:none;mso-hide:all;
 font-size:12.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';display:none;mso-hide:all;
@@ -1142,7 +1178,9 @@ mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
 mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >项目框架：</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >springMVC+ Spring + MyBatis </span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >springMVC+ Spring + MyBatis+</span><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >BootStrap</font></span></b><span style="font-family:Calibri;mso-fareast-font-family:宋体;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >为了减少护士和医务人员的工作量，对患者从入院到出院整理出一系列管理，给病人分配床位，开检查和医药单子等。主要包括床位管理、病人一览表、统计分析、执行单管理、系统设置、医嘱核对等模块</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:4.5000pt;" ><td width=139  valign=top  style="width:83.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
@@ -1196,7 +1234,7 @@ mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
 mso-hansi-font-family:Calibri;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >项目框架：</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >springmvc+ Spring + MyBatis </span><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >springmvc+ Spring + MyBatis+layui&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
 mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >主要前台包括的模块有：工作台、动态、审批、客户公海、市场活动、线索、客户、联系人、交易、售后回访、统计图表、报表、销售订单、发货单、跟进、产品、报价；后台包括的模块有：个人设置、部门维护、权限管理、数据字典表等；</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=139  valign=top  style="width:83.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
@@ -1227,9 +1265,10 @@ mso-font-kerning:1.0000pt;" >.08-201</span></b><b><span style="font-family:Calib
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" >8</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';font-weight:bold;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >.05</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >北辰校园在线系统</span></b><b><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
-font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;
-background:rgb(127,127,127);mso-shading:rgb(127,127,127);" ><o:p></o:p></span></b></p></td></tr><tr><td width=139  valign=top  style="width:83.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >北辰校园在线</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >管理</span></b><b><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+mso-bidi-font-family:'Times New Roman';font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;background:rgb(127,127,127);mso-shading:rgb(127,127,127);" ><o:p></o:p></span></b></p></td></tr><tr><td width=139  valign=top  style="width:83.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
@@ -1326,7 +1365,7 @@ mso-hide:all;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span><
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >掌握linux,Docker容器化部署 </span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >熟练linux,Docker容器化部署 Redis集群</span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p></td></tr></table><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';font-weight:bold;display:none;
 mso-hide:all;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
@@ -1335,7 +1374,7 @@ mso-hide:all;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span><
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >熟练使用Postman测试、 </span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >熟练使用Postman测试。</span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p></td></tr></table><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';font-weight:bold;display:none;
 mso-hide:all;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
@@ -1358,9 +1397,7 @@ mso-hide:all;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span><
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >熟练调用第三方的阿里云OSS</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><font face="宋体" >,邮箱接口</font></span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
-mso-font-kerning:1.0000pt;" >。</span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >熟练调用第三方的阿里云OSS,邮箱接口。</span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p></td></tr></table><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';font-weight:bold;display:none;
 mso-hide:all;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
@@ -1369,7 +1406,7 @@ mso-hide:all;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span><
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >掌握BootStrap、Vue 、layui，Elementui等RIA富客户端前台技术框架。</span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >掌握BootStrap、Vue 、layui，Elementui等端前台技术框架。</span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p></td></tr></table><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';font-weight:bold;display:none;
 mso-hide:all;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
@@ -1378,7 +1415,7 @@ mso-hide:all;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span><
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >熟悉消息队列RabbitMQ ，掌握Redis集群。 </span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >熟悉消息队列RabbitMQ 。&nbsp;</span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p></td></tr></table><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';font-weight:bold;display:none;
 mso-hide:all;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
@@ -1387,11 +1424,11 @@ mso-hide:all;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span><
 mso-bidi-font-family:'Times New Roman';font-weight:bold;display:none;
 mso-hide:all;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';font-weight:bold;display:none;
-mso-hide:all;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><table class=MsoTableGrid  border=0  cellspacing=0  style="border-collapse:collapse;border:none;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr><td width=890  valign=top  style="width:534.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-hide:all;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><table class=MsoTableGrid  border=0  cellspacing=0  style="border-collapse:collapse;border:none;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr style="height:11.1500pt;" ><td width=890  valign=top  style="width:534.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >掌握HttpClient，sql优化。</span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >熟悉HttpClient，sql优化。</span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p></td></tr></table><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';font-weight:bold;display:none;
 mso-hide:all;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
@@ -1409,7 +1446,7 @@ mso-hide:all;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span><
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
 mso-border-bottom-alt:none;" ><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
-font-size:9.0000pt;mso-font-kerning:1.0000pt;" >掌握 微服务、分布式SpringBoot,SpringCloud,Nacos+Rubbon等技术 </span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >掌握 微服务、分布式SpringBoot,SpringCloud,Nacos+Dubbo等技术 </span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p></td></tr></table><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
 mso-bidi-font-family:'Times New Roman';font-weight:bold;display:none;
 mso-hide:all;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
@@ -1431,10 +1468,16 @@ mso-border-bottom-alt:none;" ><p class=MsoNormal  style="margin-right:0.0000pt;m
 mso-para-margin-left:0.0000gd;" ><b><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;
 mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';font-weight:bold;
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" >掌握</span></b><b><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
-font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >shor</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >shiro</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
 font-size:9.0000pt;mso-font-kerning:1.0000pt;" >安全框架</span></b><b><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
 mso-bidi-font-family:'Times New Roman';font-weight:bold;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" >。</span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style="height:5.1500pt;" ><td width=890  valign=top  style="width:534.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;" ><p class=MsoNormal  style="margin-right:0.0000pt;margin-left:0.0000pt;mso-para-margin-right:0.0000gd;
+mso-para-margin-left:0.0000gd;" ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >熟练使用IDEA、Eclipse开发工具 </span></b><b><span style="font-family:宋体;font-weight:bold;font-size:9.0000pt;
 mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style="height:5.1500pt;" ><td width=890  valign=top  style="width:534.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
